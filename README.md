@@ -4,8 +4,8 @@
 
 I love software development, maths, biology and science communication, and I try to use my passion for all of these things to make a positive difference in the field of human health. I'm currently working on [EpiFusion](epifusion.org), a program for jointly inferring outbreak trajectories and transmission dynamics by integrating phylodynamics and epidemiology via particle filtering.
 
-[![test](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciarajudge/)
 [![test](https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=github&logoColor=white)](https://ciarajudge.github.io/)
+[![test](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciarajudge/)
 [![test](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/judge.ciara?si=e32d522146854a74)
 [![test](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ciarajudge/)
 
