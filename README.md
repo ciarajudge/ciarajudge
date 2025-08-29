@@ -1,6 +1,6 @@
 # Hey, my name is Ciara 👋
 
-### I'm a research fellow at the Oxford University, and I work on methods for modelling infectious disease outbreaks that incorporate traditional epidemiology as well as genetic data.
+### I'm a research fellow at Oxford University, and I work on methods for modelling infectious disease outbreaks that incorporate traditional epidemiology as well as genetic data.
 
 I love software development, maths, biology and science communication, and I try to use my passion for all of these things to make a positive difference in the field of human health. I'm currently working on [EpiFusion](epifusion.org), a program for jointly inferring outbreak trajectories and transmission dynamics by integrating phylodynamics and epidemiology via particle filtering.
 
